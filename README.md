@@ -30,11 +30,10 @@ A full-stack web application for ordering food online with real-time order track
 
 ## 📸 Screenshots
 
-*(Add screenshots later)*
 
 | Login Page | Home Page | Order Tracking |
 | :---: | :---: | :---: |
-| *(Add image)* | *(Add image)* | *(Add image)* |
+| *[Login](Screenshots/Login.png)* | *[Home](screenshots/Admin_MenuManagement)* | *[Tracking](screenshots/User_OrderTrack)* |
 
 ---
 
