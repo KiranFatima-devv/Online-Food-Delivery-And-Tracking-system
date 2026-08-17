@@ -136,7 +136,8 @@ This project demonstrates my ability to:
 
 This project is part of my academic portfolio and reflects my passion for software development and continuous learning.
 ---
-
+ License
+This project is licensed under the MIT License — see the LICENSE file for details.
 ## 🔮 Future Improvements
 
 - Add payment gateway (Stripe)
